@@ -28,4 +28,4 @@ Question: Write a program that inputs age and checks using an if statement if th
 
 ### `q5.c`
 
-Create a program that repeatedly displays a menu (1. Add numbers, 2. Find average, 3.Exit). Use a while loop + switch to process the user’s choice until they choose to exit
+Question: Create a program that repeatedly displays a menu (1. Add numbers, 2. Find average, 3.Exit). Use a while loop + switch to process the user’s choice until they choose to exit
